@@ -1,6 +1,7 @@
-package main.java;
+package main.java.problem;
 
 class Point {
+
     private double x, y;
 
     Point(double x, double y) {

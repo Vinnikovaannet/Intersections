@@ -1,4 +1,4 @@
-package main.java;
+package main.java.problem;
 
 public class Line {
     private double a,b,c;
