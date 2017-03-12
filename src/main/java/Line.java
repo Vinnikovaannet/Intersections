@@ -1,4 +1,4 @@
-package main;
+package main.java;
 
 public class Line {
     private double a,b,c;

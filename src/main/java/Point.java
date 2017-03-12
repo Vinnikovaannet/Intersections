@@ -1,4 +1,4 @@
-package main;
+package main.java;
 
 class Point {
     private double x, y;
